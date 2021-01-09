@@ -1,0 +1,7 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<resources>
+    <attr name="toDoCardColor" format="reference" />
+    <attr name="toDoItemTitleTextColor" format="reference" />
+    <attr name="toDoItemSubtitleTextColor" format="reference" />
+    <attr name="cardCornerColor" format="reference" />
+</resources>
